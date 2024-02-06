@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://github.com/cjhota/JobCalculater/assets/87287868/d45fcd0f-97d2-481a-8a80-64a57dc74eab" width="220px" />
+  <img alt="casas" title="JobsCalc" src="https://github.com/cjhota/JobCalculater/assets/87287868/d45fcd0f-97d2-481a-8a80-64a57dc74eab" width="220px" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/cjhota/JobCalculater/assets/87287868/30a1c649-a1c9-40f7-9b67-28c79bce9a7c" width="100%">
+  <img alt="casas para alugar" src="https://github.com/cjhota/JobCalculater/assets/87287868/30a1c649-a1c9-40f7-9b67-28c79bce9a7c" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,7 +22,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ANGULAR
-- TYPESCRIP
+- TYPESCRIPT
 - CSS
 - JAVASCRIP
 - JSON-SERVER
