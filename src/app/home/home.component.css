@@ -6,22 +6,37 @@
     margin-top: 50px;
     justify-content: space-around;
   }
+
+  form {
+    display: grid;
+    grid-template-columns: 1fr 10rem;
+    gap: 1rem;
+    align-items: center;
+    align-content: center;
+    justify-items: stretch;
+  }
   
   input[type="text"] {
+
     border: solid 1px var(--primary-color);
     padding: 10px;
     border-radius: 8px;
     margin-right: 4px;
     display: inline-block;
-    width: 30%;
-  }
+    /* width: 80%; */
+    height: 34px;
+    font-size: 16px;
+}
   
   button {
-    padding: 10px;
+    padding: 20px;
     border: solid 1px var(--primary-color);
     background: var(--primary-color);
     color: white;
     border-radius: 8px;
+    /* width: 10%; */
+    font-size: 16px;
+
   }
   
   @media (min-width: 500px) and (max-width: 768px) {

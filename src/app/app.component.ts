@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { HomeComponent }  from './home/home.component';
+import { HomeComponent } from './home/home.component';
 import { RouterModule } from '@angular/router';
 
 
@@ -15,6 +15,15 @@ import { RouterModule } from '@angular/router';
     <a [routerLink]="['/']">
       <header class="brand-name">
         <img class="brand-logo" src="/assets/logo.svg" alt="logo" aria-hidden="true">
+        <!-- <a href="/" class="brand-logo" aria-hidden="true">
+        <span class="material-symbols-outlined">
+real_estate_agent
+</span>
+        Corretora devops!</a> -->
+        <div class="group-contact">
+          <a href="#">Sobre nós</a>
+          <a href="#">Contato</a>
+        </div>
       </header>
     </a>
     <section class="content">
@@ -25,5 +34,5 @@ import { RouterModule } from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'homes';
+  title = 'Corretora devops';
 }

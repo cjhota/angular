@@ -15,8 +15,8 @@ import { CommonModule } from '@angular/common';
   template: `
   <section>
     <form>
-      <input type="text" placeholder="Filter by city" #filter>
-      <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
+      <input type="text" placeholder="Buscar por Cidade" #filter>
+      <button class="primary" type="button" (click)="filterResults(filter.value)">Buscar</button>
     </form>
   </section>
   <section class="results">
