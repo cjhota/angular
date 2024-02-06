@@ -33,7 +33,7 @@ O devops home é uma aplicação voltada para localizar ambientes que sejam adeq
 
 ## CONFIGURAÇÂO
 
-##### Para executar é necessário o `´CLI´` do angular
+##### <a href="https://angular.io/"> Para executar é necessário o `´CLI´` do angular</a>
 
 - git remote add origin `https://github.com/cjhota/angular.git`
   
